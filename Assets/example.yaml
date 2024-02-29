@@ -1,0 +1,17 @@
+# A simple profile configuration
+person:
+  name: Alice Johnson
+  age: 30
+  interests:
+    - reading
+    - hiking
+    - technology
+
+# Server configurations
+servers:
+  production:
+    host: example.com
+    port: 8080
+  development:
+    host: localhost
+    port: 3000
